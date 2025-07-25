@@ -1,0 +1,26 @@
+[
+    {
+        "role": "user",
+        "content": "Play a song on youtube."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm playing \"Uptown Funk\" by Mark Ronson ft. Bruno Mars on YouTube. Would you like to listen to something else?"
+    },
+    {
+        "role": "user",
+        "content": "Play a song on youtube."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm playing \"Shut Up and Dance\" by Walk the Moon on YouTube. Would you like to listen to something else?"
+    },
+    {
+        "role": "user",
+        "content": "Play a song on youtube."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm playing \"Happy\" by Pharrell Williams on YouTube. Would you like to listen to something else?"
+    }
+]
